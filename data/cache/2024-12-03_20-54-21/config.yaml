@@ -1,0 +1,13 @@
+buffer_time: 15
+cache_folder: data/cache
+connectivity_metric: plv
+downsample: null
+event_tables_path: event_tables
+ictal_overlap: 0
+inter_overlap: 0
+npy_dataset_path: npy_dataset
+preictal_overlap: 0
+sample_timestep: 6
+sampling_f: 256
+seizure_lookback: 600
+smote: false
