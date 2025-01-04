@@ -11,7 +11,7 @@ from torch_geometric.loader import DataLoader
 from iterstrat.ml_stratifiers import MultilabelStratifiedKFold
 
 
-from models import GATv2Lightning
+from src.notebooks.models import GATv2Lightning
 from utils.dataloader_utils import (
     GraphDataset,
     HDFDataset_Writer,
